@@ -5,4 +5,4 @@ I did my best to create them, and I hope you do too! (Teachers)
 
 ## Assignments:
 - Maths Mandala and Thangka Art from Sikkim (Moto was to collect meaningful information about these art types from Sikkim, India)
-  -https://github.com/Ravanger101/SchoolAssignments/blob/main/Aryan%20Gore%20XF%20Maths%20Holiday%20Homework.pdf
+  - [Click here to Redirect to this Assignment](https://github.com/Ravanger101/SchoolAssignments/blob/main/Aryan%20Gore%20XF%20Maths%20Holiday%20Homework.pdf)
